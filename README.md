@@ -2,6 +2,8 @@
 site link: https://zishanhow.github.io/Basketball-Scoreboard/
 
 it's an basketball scoreboard that i built from scratch.
+
+and my name is Zishan!
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
